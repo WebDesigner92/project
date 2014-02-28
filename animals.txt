@@ -1,2 +1,7 @@
 vache
 canard
+<<<<<<< HEAD
+=======
+lezard
+escargo
+>>>>>>> farm
